@@ -1,0 +1,47 @@
+To use this go to : https://argdown.org/sandbox/map 
+
+# How should we approach complexity in Learning Analytics?
+
+I have grouped the arguments here lead into roughly 3 categories, in incredibly biased language:
+ 
+* #useless: Reasoning that leads to effectively doing nothing other than acknowledging that things are complex and that this is hard to analyse.
+* #wrong: Reasoning that leads to oversimplification of complex systems in order to analyse them, probably leading to misleading results. 
+* #relational: A compramise owing to the field of relational biology (Rashevsky, Rosen and Louie) merged with Causal Models (Pearl) and Structured Equaion 
+
+[What should we do?]
+  - [Nothing]: Deem the problems too challenging to analyse.
+    + <Art over science>: Some things are not worth analysing, there is more 'art' involved than science.
+  + [Break it into smaller parts?]:
+    + [Yes: Reductionism]: View the system as reducible and analyse the important components.
+      + <Parsimonious>: The components can be analysed and understood.
+      + <Possible, Simple>: It is possible to analyse the components in a straightfoward manner. #wrong
+      - <Wrong>: The sum of the parts may not be the whole in the case of a complex system (this is the very definition by Rosen). #wrong
+    - [No: Irreducible]: View the system as a whole.
+       + <Faithful>: This is faithful to the complexity of the original system and fits in with Rosens model. #relational
+       - <Challenging>: It is difficult to analyse, maybe impossible. #useless
+         + <Useless>: If analysis is impossible, then effectively. #useless
+  + [Adopt a model]: Adopt some model of complexity and its tools to apply to LA.
+    + <Relational Model>: Use a combination of Rosen's entailment model and Pearl's causal models. #relational
+      +> <A structural aspect>
+  +> [Complexity is abundant in LA]
+
+## Complexity in Learning Analytics
+
+[Is complexity an issue in LA?]:
+  + [Complexity is abundant in LA]
+    + <Literature>: Davis & Samara, Hagan and Mason all have plenty to say about aspects of complexity in the field of LA.
+  - [Complexity can be ignored in LA]
+    + <Results so far>: There have been significant progress so far in LA, often without the complex sciences / systems approach. 
+
+ 
+ ## Defining complexity
+ 
+ [What is complexity?]:
+    - <Too hard to define>: #useless
+    + <A philosophical aspect>: Can be talked about, but is slippery when it comes to analysis. #useless 
+    + <A structural aspect>: Relational biology (See Rosen) has a robust definition in terms of entailment networks (similar to causal models). #relational
+    
+    
+[Other Stuff]: Some other things
+    
+  
