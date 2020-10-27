@@ -8,32 +8,32 @@ I have grouped the arguments here lead into roughly 3 categories, in incredibly 
 * #wrong: Reasoning that leads to oversimplification of complex systems in order to analyse them, probably leading to misleading results. 
 * #relational: A compramise owing to the field of relational biology (Rashevsky, Rosen and Louie) merged with Causal Models (Pearl) and Structured Equaion 
 
+
 [What should we do?]
   - [Nothing]: Deem the problems too challenging to analyse.
     + <Art over science>: Some things are not worth analysing, there is more 'art' involved than science.
   + [Break it into smaller parts?]:
-    + [Yes: Reductionism]: View the system as reducible and analyse the important components.
+    + [Yes: Reductionism]: View the system as reducible and analyse the important components. This might need to be split into *autonomous* and *human embedded* systems.
       + <Parsimonious>: The components can be analysed and understood.
+        + Allows for a human to be part of the system.
       + <Possible, Simple>: It is possible to analyse the components in a straightfoward manner. #wrong
-      - <Wrong>: The sum of the parts may not be the whole in the case of a complex system (this is the very definition by Rosen). #wrong
+      - <Might be Wrong>: The sum of the parts may not be the whole in the case of a complex system (this is the very definition by Rosen). #wrong
+      - <When is it bad, or good?>:    
     - [No: Irreducible]: View the system as a whole.
        + <Faithful>: This is faithful to the complexity of the original system and fits in with Rosens model. #relational
+         +> <Relational Model>
        - <Challenging>: It is difficult to analyse, maybe impossible. #useless
-         + <Useless>: If analysis is impossible, then effectively. #useless
+         + <Useless>: If analysis is impossible, then effectively. #useless #wrong  
+           +> [Nothing]
   + [Adopt a model]: Adopt some model of complexity and its tools to apply to LA.
     + <Relational Model>: Use a combination of Rosen's entailment model and Pearl's causal models. #relational
       +> <A structural aspect>
+      + Provides analytical tools #relational
+      + Provides robust definition #relational
+      - Requires expertise and development
+      - May be challenging to communicate results
   +> [Complexity is abundant in LA]
 
-## Complexity in Learning Analytics
-
-[Is complexity an issue in LA?]:
-  + [Complexity is abundant in LA]
-    + <Literature>: Davis & Samara, Hagan and Mason all have plenty to say about aspects of complexity in the field of LA.
-  - [Complexity can be ignored in LA]
-    + <Results so far>: There have been significant progress so far in LA, often without the complex sciences / systems approach. 
-
- 
  ## Defining complexity
  
  [What is complexity?]:
@@ -41,7 +41,12 @@ I have grouped the arguments here lead into roughly 3 categories, in incredibly 
     + <A philosophical aspect>: Can be talked about, but is slippery when it comes to analysis. #useless 
     + <A structural aspect>: Relational biology (See Rosen) has a robust definition in terms of entailment networks (similar to causal models). #relational
     
-    
-[Other Stuff]: Some other things
-    
-  
+## Complexity in Learning Analytics
+
+Include examples
+
+[Is complexity an issue in LA?]:
+  + [Complexity is abundant in LA] (1) Learning, understanding what people know and how they move from unknowing to knowing. (2)  
+    + <Literature>: Davis & Samara, Hagan and Mason all have plenty to say about aspects of complexity in the field of LA.
+  - [Complexity can be ignored in LA] 
+    + <Results so far>: There have been significant progress so far in LA, often without the complex sciences / systems approach. 
