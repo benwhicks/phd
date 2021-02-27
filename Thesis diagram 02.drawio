@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T11:33:20.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="2QKEryl0n_bhfkBbzCAG" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T12:43:49.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ZH8dXi5B20fMTCDquB1R" version="14.3.2" type="github">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="1248" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h-9vXJWDtknDthflBs6K-2" value="&lt;span&gt;RQ1: What is complexity? (and it&#39;s impact in LA)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="37.5" y="290" width="165" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-3" target="ApkIDRKxxLrVkBf8YNB4-7">
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.426;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-2" target="ApkIDRKxxLrVkBf8YNB4-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-3" value="RQ2: How can we identify a complex system?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="290" width="240" height="60" as="geometry" />
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-2" target="h-9vXJWDtknDthflBs6K-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-9vXJWDtknDthflBs6K-2" value="&lt;span&gt;RQ1: What is complexity? (and it&#39;s impact in LA)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="55" y="290" width="299" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-4" value="" style="shape=link;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -21,8 +21,8 @@
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-5" value="" style="shape=link;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="15" y="690" as="sourcePoint" />
-            <mxPoint x="835" y="690" as="targetPoint" />
+            <mxPoint x="5" y="630" as="sourcePoint" />
+            <mxPoint x="825" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-6" value="" style="shape=link;html=1;" parent="1" edge="1">
@@ -37,11 +37,11 @@
         <mxCell id="h-9vXJWDtknDthflBs6K-9" value="QUESTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry y="260" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-10" value="OBJECTIVES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="700" width="90" height="20" as="geometry" />
+        <mxCell id="h-9vXJWDtknDthflBs6K-10" value="CONTRIBUTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="640" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-12" value="EVALUATION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="890" width="90" height="20" as="geometry" />
+          <mxGeometry x="20" y="930" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-13" value="" style="shape=link;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,132 +49,89 @@
             <mxPoint x="835" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-14" value="Framing complexity within the field of LA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="575" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-15" value="CT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="585" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-16" target="h-9vXJWDtknDthflBs6K-14">
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-14" target="h-9vXJWDtknDthflBs6K-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-16" target="ApkIDRKxxLrVkBf8YNB4-7">
+        <mxCell id="h-9vXJWDtknDthflBs6K-14" value="Framing complexity within the field of LA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113.75" y="670" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-42" target="h-9vXJWDtknDthflBs6K-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-16" target="h-9vXJWDtknDthflBs6K-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-16" value="Rosen Complexity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="460" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-17" target="ApkIDRKxxLrVkBf8YNB4-7">
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-17" target="h-9vXJWDtknDthflBs6K-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-17" value="Causal Inference" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="535" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-18" value="Applied Top" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="575" width="70" height="40" as="geometry" />
+          <mxGeometry x="190" y="460" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-25" value="Theory - Practitioner gap" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="60" width="120" height="50" as="geometry" />
+          <mxGeometry x="195" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-27" value="Reductionism v White Flag / Wrong v Useless" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-28" value="LA Applications" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="540" as="sourcePoint" />
-            <mxPoint x="475" y="585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="h-9vXJWDtknDthflBs6K-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.614;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="h-9vXJWDtknDthflBs6K-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-30" value="Explore models of relationships between objects" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="520" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-34" target="h-9vXJWDtknDthflBs6K-2">
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-27" target="mA0smehwSJ2bHxJVc1lk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-34" target="h-9vXJWDtknDthflBs6K-3">
+        <mxCell id="h-9vXJWDtknDthflBs6K-27" value="Reductionism v White Flag / Wrong v Useless" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-9vXJWDtknDthflBs6K-28" value="A model of complexity using the language of causal DAGs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="267.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.099;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-34" target="h-9vXJWDtknDthflBs6K-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-34" value="Organisation / relationships over parts /&amp;nbsp; static" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-35" value="What are better questions to ask of a complex LA system?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="740" width="150" height="70" as="geometry" />
+        <mxCell id="h-9vXJWDtknDthflBs6K-35" value="Better questions to ask of a complex LA system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="760" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ApkIDRKxxLrVkBf8YNB4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-36" target="h-9vXJWDtknDthflBs6K-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-36" value="What questions are being asked (currently) of LA systems?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="602.5" y="160" width="165" height="60" as="geometry" />
+          <mxGeometry x="555" y="150" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-42" value="Define / model complexity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="410" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-43" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-2" target="h-9vXJWDtknDthflBs6K-42" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="440" as="sourcePoint" />
-            <mxPoint x="360" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-44" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-42" target="h-9vXJWDtknDthflBs6K-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="320" as="sourcePoint" />
-            <mxPoint x="360" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-46" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-2" target="h-9vXJWDtknDthflBs6K-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="320" as="sourcePoint" />
-            <mxPoint x="360" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-47" target="ApkIDRKxxLrVkBf8YNB4-10">
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-47" target="ApkIDRKxxLrVkBf8YNB4-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-47" value="RQ3: How can we better approach complex systems analysis in LA?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="290" width="220" height="60" as="geometry" />
+        <mxCell id="h-9vXJWDtknDthflBs6K-47" value="RQ2: How can we better approach complex systems analysis in LA?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="290" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-48" value="Set of critical questions to help understand complex systems" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-49" value="Causal relationships or association? What types of relationships in education?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-50" value="Patterns in LA...can we find invariants within LA systems (maybe NP complete, maybe hom bar codes)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6" y="550" width="140" height="110" as="geometry" />
+          <mxGeometry x="690" y="710" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-51" value="METHODS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="6" y="400" width="80" height="20" as="geometry" />
+        <mxCell id="h-9vXJWDtknDthflBs6K-51" value="OBJECTIVES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1" y="400" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-52" value="&lt;span id=&quot;docs-internal-guid-866602d7-7fff-1301-0197-4444b002ad99&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;When do I have enough data / data in the right structure to do causal inference?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;arial&amp;#34; ; font-weight: 700 ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="740" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-53" target="h-9vXJWDtknDthflBs6K-34" edge="1">
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-53" target="h-9vXJWDtknDthflBs6K-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-53" value="Process Philosophy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="75" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="425" y="44" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-54" value="Category Theory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="90" width="90" height="40" as="geometry" />
+          <mxGeometry x="540" y="70" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-9vXJWDtknDthflBs6K-55" value="Complexity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="90" width="90" height="40" as="geometry" />
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-56" target="mA0smehwSJ2bHxJVc1lk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-56" target="h-9vXJWDtknDthflBs6K-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-9vXJWDtknDthflBs6K-56" target="h-9vXJWDtknDthflBs6K-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-56" value="Learning is complex" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="30" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h-9vXJWDtknDthflBs6K-57" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-55" target="h-9vXJWDtknDthflBs6K-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,26 +145,11 @@
             <mxPoint x="360" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mA0smehwSJ2bHxJVc1lk-1" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-3" target="h-9vXJWDtknDthflBs6K-47" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="380" as="sourcePoint" />
-            <mxPoint x="450" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mA0smehwSJ2bHxJVc1lk-2" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-3" target="h-9vXJWDtknDthflBs6K-42" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="380" as="sourcePoint" />
-            <mxPoint x="450" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mA0smehwSJ2bHxJVc1lk-3" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-2" target="mA0smehwSJ2bHxJVc1lk-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="380" as="sourcePoint" />
-            <mxPoint x="450" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mA0smehwSJ2bHxJVc1lk-5" target="h-9vXJWDtknDthflBs6K-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mA0smehwSJ2bHxJVc1lk-5" value="Confusion in communication and decision making around complex LA systems" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sfIImLreEvvxbb7hrz45-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="h-9vXJWDtknDthflBs6K-47" target="sfIImLreEvvxbb7hrz45-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -215,13 +157,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sfIImLreEvvxbb7hrz45-5" value="A step between data cleaning and EDA; includes Causal DAG and other context providing data from experts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="410" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ApkIDRKxxLrVkBf8YNB4-7" value="Multiple models / causal loops / dense causal graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="420" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ApkIDRKxxLrVkBf8YNB4-10" value="Diagnosing a &#39;good&#39; epistemic cut (between perfect and reduced causal DAG)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.339;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ApkIDRKxxLrVkBf8YNB4-16" target="h-9vXJWDtknDthflBs6K-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApkIDRKxxLrVkBf8YNB4-16" target="h-9vXJWDtknDthflBs6K-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-16" value="Literature Review" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="177.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-18" value="Complexity Case Study: Retention" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-20" value="Complexity Case Study: SFS" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-9vXJWDtknDthflBs6K-55" value="Complexity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-9vXJWDtknDthflBs6K-42" value="Define / model complexity &lt;br&gt;(Multiple models / causal loops / dense causal graph)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="76.25" y="500" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApkIDRKxxLrVkBf8YNB4-40" value="Publication journal / conference articles" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
