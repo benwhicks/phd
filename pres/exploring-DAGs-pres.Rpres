@@ -19,6 +19,8 @@ theme_set(theme_dag())
 
 ### - -  CSU Retention (messy)
 
+### - -  dagitty: Interactive DAG building and analysing tool
+
 Review of DAGs
 ========================================================
 incremental: true
@@ -47,7 +49,7 @@ xyz_coords <- list(
 dagify(
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 20, text_size = 7) +
   ylim(c(-1, 1))
 ```
 
@@ -69,14 +71,14 @@ xyz_coords <- list(
 dagify(
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ylim(c(-1, 1))
 
 dagify(
   Z ~ Y,
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ggtitle("Chain") +
   ylim(c(-1, 1))
 
@@ -102,14 +104,14 @@ xyz_coords <- list(
 dagify(
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ylim(c(-1, 1))
 
 dagify(
   Z ~ Y,
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ggtitle("Chain") +
   ylim(c(-1, 1))
 
@@ -117,7 +119,7 @@ dagify(
   Z ~ Y,
   X ~ Y,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ggtitle("Fork")
 ```
 
@@ -141,14 +143,14 @@ xyz_coords <- list(
 dagify(
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ylim(c(-1, 1))
 
 dagify(
   Z ~ Y,
   Y ~ X,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ggtitle("Chain") +
   ylim(c(-1, 1))
 
@@ -156,14 +158,14 @@ dagify(
   Z ~ Y,
   X ~ Y,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ggtitle("Fork")
 
 dagify(
   Y ~ X,
   Y ~ Z,
   coords = xyz_coords) %>%
-  ggdag() +
+  ggdag(node_size = 18, text_size = 7) +
   ggtitle("Collider")
 
 ```
@@ -479,26 +481,26 @@ CSU Retention
 ``` {r}
 library(dagitty)
 ret_dag <- dagitty('dag {
-bb="0,0,1,1"
-"Academic Capacity" [latent,pos="0.440,0.606"]
-"Direction to Caller" [pos="0.198,0.549"]
-"Framing of Conversation" [pos="0.199,0.411"]
-"Learning Design" [pos="0.319,0.725"]
-Activity [pos="0.137,0.138"]
-Answer [pos="0.288,0.318"]
-Conversation [exposure,pos="0.397,0.417"]
-Engagement [latent,pos="0.411,0.188"]
-Flagged [pos="0.212,0.230"]
-Life [latent,pos="0.580,0.363"]
-Result [outcome,pos="0.625,0.728"]
-Session [pos="0.564,0.213"]
-Withdraw [pos="0.487,0.532"]
+bb="-4.556,-5.567,6.234,5.038"
+"Academic Capacity" [latent,pos="5.335,0.652"]
+"Direction to Caller" [pos="-2.094,-4.683"]
+"Framing of Conversation" [pos="-3.657,-1.862"]
+"Learning Design" [pos="0.593,-2.665"]
+Activity [pos="-1.225,-2.541"]
+Answer [pos="-3.491,1.722"]
+Conversation [exposure,pos="-1.467,1.456"]
+Engagement [latent,pos="0.254,0.623"]
+Flagged [pos="-2.018,-0.659"]
+Life [latent,pos="0.062,3.520"]
+Result [outcome,pos="3.135,-1.081"]
+Session [pos="1.995,4.154"]
+Withdraw [pos="2.351,1.637"]
 "Academic Capacity" -> Result
 "Academic Capacity" -> Withdraw
 "Direction to Caller" -> "Framing of Conversation"
 "Framing of Conversation" -> Conversation
 "Learning Design" -> "Direction to Caller"
-"Learning Design" -> Engagement [pos="0.315,0.361"]
+"Learning Design" -> Engagement
 "Learning Design" -> Flagged
 "Learning Design" -> Result
 Activity -> "Framing of Conversation"
@@ -528,4 +530,13 @@ ret_dag %>%
 
 Nice links
 ========================================================
+
+### http://dagitty.net/
+Interactive DAG tool, great small number of tutorials, associated R package.
+
+### https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-ggdag.html
+R package, tidyverse style, for drawing and analysing DAGs. You can build in dagitty graphically then bring into R.
+
+### https://youtu.be/pJhU4fimHBQ
+Fantastic video by Scott Venners (~40 min) where he goes through the building a DAG process using dagitty, explaining his thinking througout (this is on the [dagitty tutorial page](http://dagitty.net/learn/index.html) too)
 

@@ -14,6 +14,8 @@ autosize: true
 
 ### - -  CSU Retention (messy)
 
+### - -  dagitty: Interactive DAG building and analysing tool
+
 Review of DAGs
 ========================================================
 incremental: true
@@ -250,4 +252,13 @@ CSU Retention
 
 Nice links
 ========================================================
+
+### http://dagitty.net/
+Interactive DAG tool, great small number of tutorials, associated R package.
+
+### https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-ggdag.html
+R package, tidyverse style, for drawing and analysing DAGs. You can build in dagitty graphically then bring into R.
+
+### https://youtu.be/pJhU4fimHBQ
+Fantastic video by Scott Venners (~40 min) where he goes through the building a DAG process using dagitty, explaining his thinking througout (this is on the [dagitty tutorial page](http://dagitty.net/learn/index.html) too)
 
