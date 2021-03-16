@@ -16,7 +16,7 @@ autosize: true
 
 ### - -  dagitty: Interactive DAG building and analysing tool
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 incremental: true
 
@@ -27,7 +27,7 @@ incremental: true
 ***
 
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -38,7 +38,7 @@ Review of DAGs
 
 ![plot of chunk unnamed-chunk-2](exploring-DAGs-pres-figure/unnamed-chunk-2-1.png)
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -50,7 +50,7 @@ Review of DAGs
 
 ![plot of chunk unnamed-chunk-3](exploring-DAGs-pres-figure/unnamed-chunk-3-1.png)![plot of chunk unnamed-chunk-3](exploring-DAGs-pres-figure/unnamed-chunk-3-2.png)
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -63,7 +63,7 @@ Review of DAGs
 
 ![plot of chunk unnamed-chunk-4](exploring-DAGs-pres-figure/unnamed-chunk-4-1.png)![plot of chunk unnamed-chunk-4](exploring-DAGs-pres-figure/unnamed-chunk-4-2.png)![plot of chunk unnamed-chunk-4](exploring-DAGs-pres-figure/unnamed-chunk-4-3.png)
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -174,13 +174,15 @@ incremental: true
 
 ### Model proposed by Peter Bickel
 
-__Does this imply we should condition on department?__
 
-__What happens when we condition on department?__
+![plot of chunk unnamed-chunk-15](exploring-DAGs-pres-figure/unnamed-chunk-15-1.png)
+
 
 -------
 
-![plot of chunk unnamed-chunk-15](exploring-DAGs-pres-figure/unnamed-chunk-15-1.png)
+__Does this imply we should condition on department?__
+
+__What happens when we condition on department?__
 
 Berkeleys Admission Paradox
 ========================================================

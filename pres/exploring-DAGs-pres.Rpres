@@ -21,7 +21,7 @@ theme_set(theme_dag())
 
 ### - -  dagitty: Interactive DAG building and analysing tool
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 incremental: true
 
@@ -32,7 +32,7 @@ incremental: true
 ***
 
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -53,7 +53,7 @@ dagify(
   ylim(c(-1, 1))
 ```
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -85,7 +85,7 @@ dagify(
 
 ```
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -123,7 +123,7 @@ dagify(
   ggtitle("Fork")
 ```
 
-Review of DAGs
+Review of (Causal) DAGs
 ========================================================
 
 * Represents _causal assumptions_ about the system.
@@ -373,15 +373,17 @@ incremental: true
 
 ### Model proposed by Peter Bickel
 
-__Does this imply we should condition on department?__
-
-__What happens when we condition on department?__
-
--------
 
 ``` {r}
 dag_berk %>% ggdag(node_size = 18, text_size = 6)
 ```
+
+
+-------
+
+__Does this imply we should condition on department?__
+
+__What happens when we condition on department?__
 
 Berkeleys Admission Paradox
 ========================================================
