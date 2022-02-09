@@ -1,0 +1,63 @@
+# Ben Stage 1 Lit Review Argument
+
+Some abbriviations: 
+
+Causal Models (CM); a graphical causal model framework based on DAGs and Pearls do-calculus tools. 
+Causal Inference Frameworks (CIF) are a broader set of frameworks (of which Pearls is one) that attempt to address problems of making causal statements.
+Learning Analytics (LA). 
+
+Review should build the follow initial starting points for he PhD, then lead to the three RQs:
+
+#RQ 1 - What does good CM in LA look like?
+
+#RQ 2 - Can diagrammatic reasoning help non-technical experts build causal models?
+
+#RQ 3 - How can CMs help close the loop in an effective way? 
+
+[Causality is of critical importance to LA]
+  + [Why is causality is of critical importance to LA?]: LA is concerned with mechanisms for change, intervention and action - not merely describing the learning landscape but changing it.
+    + <Making interventions>: Decisions about intervening in a system requires knowledge of what changes what. 
+    + <Assessing interventions>: Assessing the effectiveness of an intervention requires the asking of a counterfactual question - what would have been the effect without the intervention? This is a question that must be answered from outside of the data. 
+    + <Understanding mechanisms>: Building understanding requires. Capacity to make change and improve.
+  - <Data over Theory>: LA should be leveraging the objectivity of data first, not adding more hand-wavyness.
+      - <Data is not objective>
+      - <Education is different>: There are questions that must be answered outside of the data.
+  + [How are causal claims being made in LA?]: We know they are of importance, but how?
+    + <RCT> 
+      - <Problems RCTs>: Not always possible of feasible, much of education relies on observational data. Costly. Ethically dubious at times. 
+        + [How should they be made?]: 
+          + <Causal Inference Frameworks (CIF)>: LA and education are not going it alone here, other fields have used CIF to address problems that are common with LA.
+            + <CIF in medicine / epi>: Similarities (to find), methods?
+            + <CIF in economics>: Similarities (to find), methods?
+            + [What are the different CIF approaches?] 
+               + <GCM>
+                 - <Need experts>: *This probably needs to link to Domain knowledge somewhere - is the same point*
+                 + <Intuitive and interpretable>
+                   + <GCM good for LA>: #answer: It's main weakness (requiring expertise) helps answer another problem - how to bring experts to the table and bridge the Theory - Data divide?
+                     + <RQ1>: #RQ 1: What does good CM in LA look like?
+                     +> <Need experts>
+                     +> [Building epistemic commons]
+               + <Potential outcomes>
+               + <Quasi-experiments>
+      
+
+[Inclusivity is of critical importance to LA]
+  + <Seats at the table>: Without inclusivity systemic disadvantage continues.
+  + <Domain knowledge>: Often required to better inform analysis in complex educational systems
+    - <Technical barrier>: Technical requirements can prevent domain experts from taking part. 
+      + [How to bring domain knowledge to LA products?]
+        +> <Need experts>
+        + <RQ2>: #RQ 2: Can diagrammatic reasoning help non-technical experts build causal models?
+          +> <GCM good for LA>
+
+[Trust is of critical importance to LA]
+  + <Action necessitates trust>: If one wants to *act*, then trust is important.
+    -> <Making interventions>
+    -> <Assessing interventions>
+    - [Trustyworthy product?]: To act the LA *product* must be *trustworthy* - how do we do this?
+      + <Transparency>: #answer
+      + <Close the loop>: Bringing the product back to the user, and hopefully showing it works!
+        - <Data - Theory divide>: The LA product shouldn't be dismissed out of hand due to it being at complete odds with the stakeholders view.
+          + [Building epistemic commons]: Need a middle ground where non-technical and technical can communicate their understanding.
+            + <RQ3>: #RQ 3: Can CM help us effectively 'close the loop' in LA?
+              +> <GCM good for LA>
