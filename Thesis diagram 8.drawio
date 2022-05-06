@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T12:05:30.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Pu5jX6yZiyrmr82ZE_Zp" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:12:54.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_MBYaZ7fkeGj0bnbMJKB" version="17.4.6" type="github" pages="3">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2098" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -889,6 +889,9 @@
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-0" value="METHODS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry y="570" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="eww-IMJ34z0kHVPiIJQQ-1" target="eww-IMJ34z0kHVPiIJQQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-1" value="CM Co-Design framework, DAG dialogue helpers" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="290.31" y="850" width="120" height="55" as="geometry" />
         </mxCell>
@@ -897,14 +900,23 @@
             <mxPoint x="100" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="eww-IMJ34z0kHVPiIJQQ-3" target="eww-IMJ34z0kHVPiIJQQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-3" value="Guidelines for good CM in LA, and when to use" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="42.5" y="850" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="eww-IMJ34z0kHVPiIJQQ-4" value="A common language for bridging the context - data divide" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="565" y="850" width="120" height="55" as="geometry" />
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-4" value="1. Insights of shared understanding from Co-Design CMs case&lt;br&gt;&lt;br&gt;2. Co-Designed theoretical framework cases (unbounded CM type)" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+          <mxGeometry x="546.37" y="822.5" width="157.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-6" value="Models should provide actionable insights" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=0;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="49.5" y="990" width="105" height="67.5" as="geometry" />
+          <mxGeometry x="20" y="973.76" width="75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-7" value="Typology of CM valid cases; bounded (ATE style) and unbounded (theory formation)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=0;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+          <mxGeometry x="110" y="973.76" width="130" height="96.25" as="geometry" />
+        </mxCell>
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-9" value="DAG dialogue helpers&lt;br&gt;Insights from working sessions" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=0;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+          <mxGeometry x="280.63" y="973.76" width="140" height="76.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
