@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:12:54.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_MBYaZ7fkeGj0bnbMJKB" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:21:06.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="t9wMt8YstuDLWK5O7jqq" version="17.4.6" type="github" pages="3">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2098" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -626,24 +626,24 @@
         <mxCell id="5SfsfjBkJCze07rfYa1i-0" />
         <mxCell id="5SfsfjBkJCze07rfYa1i-1" parent="5SfsfjBkJCze07rfYa1i-0" />
         <mxCell id="5SfsfjBkJCze07rfYa1i-2" value="CONTEXT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="30" y="30" width="70" height="20" as="geometry" />
+          <mxGeometry x="97.5" y="30" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-3" value="RESEARCH GAPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=1;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry y="310" width="120" height="20" as="geometry" />
+          <mxGeometry x="130" y="310" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-4" value="RESEARCH QUESTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry y="440" width="160" height="20" as="geometry" />
+          <mxGeometry x="119.45" y="440" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-6" target="5SfsfjBkJCze07rfYa1i-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-6" value="Can Co-Designed CM provide a persistent epistemic commons?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=0;shadow=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-6" value="Can Co-Designed CM provide a persistent epistemic commons?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;sketch=0;shadow=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="556.25" y="465" width="137.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-8" target="5SfsfjBkJCze07rfYa1i-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-8" value="?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-8" value="Analysis of questions and ideation from working session" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="564" y="588.75" width="122.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-11" target="5SfsfjBkJCze07rfYa1i-23">
@@ -652,13 +652,13 @@
         <mxCell id="5SfsfjBkJCze07rfYa1i-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-11" target="5SfsfjBkJCze07rfYa1i-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-11" value="Co-Design tools (emerging)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-11" value="Co-Design tools (emerging)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="270" y="340" width="161.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-13" target="5SfsfjBkJCze07rfYa1i-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-13" value="Asymmetry between modellers and theoretically minded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-13" value="Asymmetry between modellers and theoretically minded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="565" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-15" target="5SfsfjBkJCze07rfYa1i-13">
@@ -676,11 +676,11 @@
         <mxCell id="5SfsfjBkJCze07rfYa1i-18" value="Theory in LA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="503.75" y="170" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-20" target="5SfsfjBkJCze07rfYa1i-36">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-20" target="5SfsfjBkJCze07rfYa1i-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-20" value="Causal frameworks in LA (GCM in particular)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="40" y="335" width="120" height="60" as="geometry" />
+        <mxCell id="5SfsfjBkJCze07rfYa1i-20" value="Causal frameworks in LA (GCM in particular)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+          <mxGeometry x="42" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-70" target="5SfsfjBkJCze07rfYa1i-13">
           <mxGeometry relative="1" as="geometry" />
@@ -691,14 +691,14 @@
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-23" target="5SfsfjBkJCze07rfYa1i-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-23" value="Can diagrammatic reasoning help non-technical experts build causal models?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-23" value="Can diagrammatic reasoning help non-technical experts build causal models?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;shadow=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="283.45" y="462.5" width="134.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-24" value="CONTRIBUTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="10" y="820" width="120" height="20" as="geometry" />
+          <mxGeometry x="120" y="820" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-25" value="EVIDENCE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry y="950" width="80" height="20" as="geometry" />
+          <mxGeometry x="174.75" y="946" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" target="5SfsfjBkJCze07rfYa1i-26">
           <mxGeometry relative="1" as="geometry">
@@ -723,7 +723,7 @@
         <mxCell id="5SfsfjBkJCze07rfYa1i-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-36" target="5SfsfjBkJCze07rfYa1i-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SfsfjBkJCze07rfYa1i-36" value="What are good use cases for causal modelling for LA?" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
+        <mxCell id="5SfsfjBkJCze07rfYa1i-36" value="What are good use cases for causal modelling for LA?" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;shadow=1;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="37.5" y="460" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-39" target="5SfsfjBkJCze07rfYa1i-41">
@@ -747,7 +747,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-44" value="Case studies, working sessions." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="290.63" y="582.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.63" y="587.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" target="5SfsfjBkJCze07rfYa1i-31">
           <mxGeometry relative="1" as="geometry">
@@ -760,10 +760,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-55" value="Causal claims" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;shadow=0;glass=0;sketch=0;strokeColor=#56517e;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="40" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="52" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-56" value="Intervention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;shadow=0;glass=0;sketch=0;strokeColor=#56517e;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="40" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="52" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-58" target="5SfsfjBkJCze07rfYa1i-18">
           <mxGeometry relative="1" as="geometry" />
@@ -775,7 +775,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-70" value="Involving stakeholders in creating LA systemts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="340" y="222.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="279.45" y="230" width="286.55" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-72" target="eww-IMJ34z0kHVPiIJQQ-4">
           <mxGeometry relative="1" as="geometry">
@@ -789,6 +789,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429" y="1170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="5SfsfjBkJCze07rfYa1i-74" target="5SfsfjBkJCze07rfYa1i-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SfsfjBkJCze07rfYa1i-74" value="Critical point vignettes, coding of thinking / question development" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="285.63" y="687.5" width="129.37" height="70" as="geometry" />
@@ -878,16 +881,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3wcLGd0aO4lRkbtMhpXg-0" value="Inclusivity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="355" y="107.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="357" y="107.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3wcLGd0aO4lRkbtMhpXg-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="3wcLGd0aO4lRkbtMhpXg-1" target="5SfsfjBkJCze07rfYa1i-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3wcLGd0aO4lRkbtMhpXg-1" value="Trust" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="180" y="107.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="156" y="107.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-0" value="METHODS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry y="570" width="80" height="20" as="geometry" />
+          <mxGeometry x="135" y="565.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="eww-IMJ34z0kHVPiIJQQ-1" target="eww-IMJ34z0kHVPiIJQQ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -895,7 +898,7 @@
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-1" value="CM Co-Design framework, DAG dialogue helpers" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="290.31" y="850" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="eww-IMJ34z0kHVPiIJQQ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="eww-IMJ34z0kHVPiIJQQ-3" target="eww-IMJ34z0kHVPiIJQQ-6">
+        <mxCell id="eww-IMJ34z0kHVPiIJQQ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5SfsfjBkJCze07rfYa1i-1" source="eww-IMJ34z0kHVPiIJQQ-3" target="eww-IMJ34z0kHVPiIJQQ-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="980" as="targetPoint" />
           </mxGeometry>
@@ -910,10 +913,10 @@
           <mxGeometry x="546.37" y="822.5" width="157.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-6" value="Models should provide actionable insights" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=0;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="20" y="973.76" width="75" height="100" as="geometry" />
+          <mxGeometry x="10" y="970" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-7" value="Typology of CM valid cases; bounded (ATE style) and unbounded (theory formation)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=0;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
-          <mxGeometry x="110" y="973.76" width="130" height="96.25" as="geometry" />
+          <mxGeometry x="97.5" y="971.88" width="152.5" height="98.12" as="geometry" />
         </mxCell>
         <mxCell id="eww-IMJ34z0kHVPiIJQQ-9" value="DAG dialogue helpers&lt;br&gt;Insights from working sessions" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=0;" vertex="1" parent="5SfsfjBkJCze07rfYa1i-1">
           <mxGeometry x="280.63" y="973.76" width="140" height="76.25" as="geometry" />
