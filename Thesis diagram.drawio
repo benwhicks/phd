@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T11:05:53.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="xaEbVnFvNaMc_7mQ335g" version="18.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-24T11:33:04.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="y62H5mAflVGe51DKLvRr" version="18.1.1" type="github" pages="5">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1254,11 +1254,14 @@
         <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-6" target="I3Ufh8RAxNPkSARrJ3Xx-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-6" value="Can CM provide a persistent epistemic commons?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=0;shadow=1;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="615.3000000000001" y="323.75" width="179.4" height="50.62" as="geometry" />
+        <mxCell id="e0WxAcOdBKouPWFkAotb-6" value="Can causal models provide a persistent epistemic commons between context experts and data experts?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=0;shadow=1;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
+          <mxGeometry x="583.83" y="320" width="242.35" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-8" value="Analysis of questions and ideation from working session" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="532.76" y="630" width="122.5" height="47.5" as="geometry" />
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-45" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;opacity=50;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-8" target="e0WxAcOdBKouPWFkAotb-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e0WxAcOdBKouPWFkAotb-8" value="Analysis of questions and ideation from working session, matching diagrams to dialogue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
+          <mxGeometry x="403.39" y="710" width="146.61" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-11" target="e0WxAcOdBKouPWFkAotb-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1307,7 +1310,7 @@
         <mxCell id="e0WxAcOdBKouPWFkAotb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-35" target="e0WxAcOdBKouPWFkAotb-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-35" value="What are good use cases for causal modelling for LA?" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
+        <mxCell id="e0WxAcOdBKouPWFkAotb-35" value="When should we use causal models in learning analytics?" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
           <mxGeometry x="56.34" y="320" width="167.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-25" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=60;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-38" target="I3Ufh8RAxNPkSARrJ3Xx-24">
@@ -1316,11 +1319,14 @@
         <mxCell id="e0WxAcOdBKouPWFkAotb-38" value="Understand valid use cases for CM in LA" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
           <mxGeometry x="24.13" y="455" width="232.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-42" target="e0WxAcOdBKouPWFkAotb-55" edge="1">
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-42" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;opacity=50;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-42" target="I3Ufh8RAxNPkSARrJ3Xx-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-42" value="Case studies, working sessions." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="399.96999999999997" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-44" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;opacity=50;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-42" target="e0WxAcOdBKouPWFkAotb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e0WxAcOdBKouPWFkAotb-42" value="Iterate Co-D CM process through series of case studies; Retention, Belonging, UTS prediction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
+          <mxGeometry x="279.25" y="568" width="255.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="e0WxAcOdBKouPWFkAotb-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1335,16 +1341,13 @@
         <mxCell id="e0WxAcOdBKouPWFkAotb-45" value="Causal claims" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;shadow=0;glass=0;sketch=0;strokeColor=#82b366;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
           <mxGeometry x="69.61999999999999" y="110" width="140.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-55" target="e0WxAcOdBKouPWFkAotb-73" edge="1">
+        <mxCell id="e0WxAcOdBKouPWFkAotb-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-55" target="e0WxAcOdBKouPWFkAotb-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429" y="1312.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-55" target="e0WxAcOdBKouPWFkAotb-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-55" value="Critical point vignettes, coding of thinking / question development" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="395.28000000000003" y="720" width="129.37" height="70" as="geometry" />
+          <mxGeometry x="410" y="819" width="129.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-56" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;" parent="e0WxAcOdBKouPWFkAotb-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1412,8 +1415,8 @@
         <mxCell id="e0WxAcOdBKouPWFkAotb-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Garamond;fontSize=16;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-73" target="e0WxAcOdBKouPWFkAotb-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-73" value="CM Co-Design framework" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="374.40999999999997" y="946.56" width="171.12" height="55" as="geometry" />
+        <mxCell id="e0WxAcOdBKouPWFkAotb-73" value="CM Co-Design framework" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
+          <mxGeometry x="335" y="952.44" width="185" height="55" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-76" target="e0WxAcOdBKouPWFkAotb-79" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1435,17 +1438,17 @@
         <mxCell id="e0WxAcOdBKouPWFkAotb-80" value="Typology of CM valid cases" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
           <mxGeometry x="180" y="952.44" width="117.55" height="49.12" as="geometry" />
         </mxCell>
-        <mxCell id="e0WxAcOdBKouPWFkAotb-81" value="DAG dialogue helpers" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="379" y="1060" width="79.37" height="36.24" as="geometry" />
+        <mxCell id="e0WxAcOdBKouPWFkAotb-81" value="Support tools, e.g.; DAG dialogue helpers" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
+          <mxGeometry x="325.31" y="1069.41" width="114" height="58.34" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-83" value="Coded insights and ideation; pre, post and follow up&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="471.40999999999997" y="1061.66" width="160" height="48.12" as="geometry" />
+          <mxGeometry x="450" y="1062.3799999999999" width="97.23" height="72.4" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-85" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;fontSize=16;" parent="e0WxAcOdBKouPWFkAotb-1" source="e0WxAcOdBKouPWFkAotb-86" target="e0WxAcOdBKouPWFkAotb-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-86" value="Transferability of causal model to other people" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
-          <mxGeometry x="680" y="723.75" width="120" height="62.5" as="geometry" />
+          <mxGeometry x="698" y="723.75" width="120" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="e0WxAcOdBKouPWFkAotb-88" value="CM library" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
           <mxGeometry x="690.25" y="949.5" width="140" height="33" as="geometry" />
@@ -1492,11 +1495,14 @@
         <mxCell id="8bgdnfwA7z-dq3gyXMSZ-22" value="Unbounded (S/M): Theoretical construct (e.g. Belonging / conceptual models in literature)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;" parent="e0WxAcOdBKouPWFkAotb-1" vertex="1">
           <mxGeometry x="105.44" y="777.75" width="194.56" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-0" value="Bridge the context-data gap using CM as a boundary object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="e0WxAcOdBKouPWFkAotb-1">
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-0" value="Bridge the context-data gap using graphical CM as the middle space" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="e0WxAcOdBKouPWFkAotb-1">
           <mxGeometry x="610" y="455" width="190" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-40" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;opacity=50;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="I3Ufh8RAxNPkSARrJ3Xx-1" target="e0WxAcOdBKouPWFkAotb-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-1" value="Establish Co-Design process for CM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="e0WxAcOdBKouPWFkAotb-1">
-          <mxGeometry x="331.31" y="451" width="140" height="50" as="geometry" />
+          <mxGeometry x="332.31" y="451" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="I3Ufh8RAxNPkSARrJ3Xx-6" target="8bgdnfwA7z-dq3gyXMSZ-21">
           <mxGeometry relative="1" as="geometry" />
@@ -1536,6 +1542,12 @@
             <mxPoint x="37.5" y="1160" as="sourcePoint" />
             <mxPoint x="798" y="1160.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-43" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;opacity=50;" edge="1" parent="e0WxAcOdBKouPWFkAotb-1" source="I3Ufh8RAxNPkSARrJ3Xx-41" target="e0WxAcOdBKouPWFkAotb-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I3Ufh8RAxNPkSARrJ3Xx-41" value="Develop support tools, such as DAG dialogue helpers, guidelines, scripts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="e0WxAcOdBKouPWFkAotb-1">
+          <mxGeometry x="309.21" y="650.25" width="146.19" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
