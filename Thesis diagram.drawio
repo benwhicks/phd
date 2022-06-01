@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T12:43:47.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="sxsTEpqyfHUEsuF9fPoj" version="18.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-01T12:59:31.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="zxRxpO1Df7Vjbp0ZPVPY" version="18.2.0" type="github" pages="6">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1609,13 +1609,13 @@
         <mxCell id="aR928x5UbVXCTr9yEPNH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-10" target="aR928x5UbVXCTr9yEPNH-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aR928x5UbVXCTr9yEPNH-10" value="Co-Design tools not applicable to statistical models and inference" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+        <mxCell id="aR928x5UbVXCTr9yEPNH-10" value="Co-Design tools not currently applicable to statistical models and inference" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="320.15" y="180" width="161.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-12" target="aR928x5UbVXCTr9yEPNH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aR928x5UbVXCTr9yEPNH-12" value="Encoding between theory and models" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=1;sketch=1;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+        <mxCell id="aR928x5UbVXCTr9yEPNH-12" value="Lack of a language for encoding theory into executable models" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="592.77" y="180" width="224.47" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="G7ATUBUsbbQmiy7HFePB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-14" target="aR928x5UbVXCTr9yEPNH-24" edge="1">
