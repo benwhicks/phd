@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T02:55:17.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="DTpscnuL06nQFBwxtT5c" version="18.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-02T03:31:13.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="qYWQ9uGg4XgY79P49II8" version="18.2.0" type="github" pages="6">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1604,7 +1604,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-8" value="Qualitative analysis of case study working sessions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
-          <mxGeometry x="468.81" y="593.25" width="146.61" height="46.75" as="geometry" />
+          <mxGeometry x="450" y="575.75" width="146.61" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-10" target="aR928x5UbVXCTr9yEPNH-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1765,7 +1765,7 @@
         <mxCell id="5UCpTB7lDbDLfy1HDIOw-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-53" target="aR928x5UbVXCTr9yEPNH-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aR928x5UbVXCTr9yEPNH-53" value="Good model?? More &#39;actionable&#39; models ??" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+        <mxCell id="aR928x5UbVXCTr9yEPNH-53" value="Good models: actionable &amp;amp;&amp;nbsp; trustworthy" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="154" y="833.3800000000002" width="115.25" height="70.62" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-54" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-55" target="aR928x5UbVXCTr9yEPNH-51" edge="1">
@@ -1781,7 +1781,13 @@
           <mxGeometry x="380.59999999999997" y="839.5200000000001" width="114" height="58.34" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-59" style="rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-60" target="aR928x5UbVXCTr9yEPNH-101" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="760" />
+              <mxPoint x="520" y="760" />
+              <mxPoint x="520" y="692" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-61" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;fontSize=16;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-62" target="aR928x5UbVXCTr9yEPNH-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1789,7 +1795,7 @@
         <mxCell id="aR928x5UbVXCTr9yEPNH-62" value="Transferability of causal model to other people" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="660" y="832.25" width="120" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="aR928x5UbVXCTr9yEPNH-63" value="CM library" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+        <mxCell id="aR928x5UbVXCTr9yEPNH-63" value="CM library or CM course" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="650" y="959.9100000000001" width="140" height="33" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-64" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" parent="aR928x5UbVXCTr9yEPNH-1" edge="1">
@@ -1864,12 +1870,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-95" value="Develop support tools, such as DAG dialogue helpers, guidelines, scripts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
-          <mxGeometry x="339.3999999999999" y="650" width="160.79" height="47.5" as="geometry" />
+          <mxGeometry x="340.79999999999995" y="650" width="140.6" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-96" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-97" target="aR928x5UbVXCTr9yEPNH-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aR928x5UbVXCTr9yEPNH-97" value="...adapt CM? Comprehend, modify, implement" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+        <mxCell id="aR928x5UbVXCTr9yEPNH-97" value="...adapt CM? Comprehend, modify, implement.&lt;br&gt;Listen to 57 min makr of meeting on last of May" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="645" y="460" width="120" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-98" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-99" target="aR928x5UbVXCTr9yEPNH-101" edge="1">
@@ -1882,7 +1888,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-101" value="Build library of CM templates, with implementation examples" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
-          <mxGeometry x="660" y="660.75" width="120" height="62.5" as="geometry" />
+          <mxGeometry x="653" y="660.75" width="120" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="5UCpTB7lDbDLfy1HDIOw-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="aR928x5UbVXCTr9yEPNH-1" source="5UCpTB7lDbDLfy1HDIOw-3" target="aR928x5UbVXCTr9yEPNH-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1896,11 +1902,11 @@
         <mxCell id="5UCpTB7lDbDLfy1HDIOw-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="aR928x5UbVXCTr9yEPNH-1" source="5UCpTB7lDbDLfy1HDIOw-13" target="aR928x5UbVXCTr9yEPNH-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5UCpTB7lDbDLfy1HDIOw-13" value="Causal Model" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
-          <mxGeometry x="250" y="613.38" width="108" height="20" as="geometry" />
+        <mxCell id="5UCpTB7lDbDLfy1HDIOw-13" value="Build Causal Models" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+          <mxGeometry x="276.06" y="582.5" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5UCpTB7lDbDLfy1HDIOw-19" value="Tutorial in adapting a CM??" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
-          <mxGeometry x="720" y="743.25" width="120" height="50.25" as="geometry" />
+          <mxGeometry x="730" y="740" width="120" height="50.25" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-60" value="Make good models - product" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="286.81" y="842.38" width="86.5" height="57.75" as="geometry" />
