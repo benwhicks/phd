@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T03:57:49.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="byAkuUe06aO5xmKY0qfQ" version="18.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-09T04:02:09.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="R6LbVh7eK5t0VUXyrUvi" version="18.2.0" type="github" pages="6">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1792,7 +1792,7 @@
         <mxCell id="aR928x5UbVXCTr9yEPNH-61" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;fontSize=16;" parent="aR928x5UbVXCTr9yEPNH-1" source="aR928x5UbVXCTr9yEPNH-62" target="aR928x5UbVXCTr9yEPNH-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aR928x5UbVXCTr9yEPNH-62" value="Transferability of causal model to other people - what level of expertise is required?" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
+        <mxCell id="aR928x5UbVXCTr9yEPNH-62" value="An account of the key factors in transferability of CM. People / Context dimensions." style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
           <mxGeometry x="660" y="832.25" width="130" height="67.75" as="geometry" />
         </mxCell>
         <mxCell id="aR928x5UbVXCTr9yEPNH-63" value="CM library or CM course" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aR928x5UbVXCTr9yEPNH-1" vertex="1">
@@ -1915,7 +1915,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gaK7E5NfhNHOreuP_D6l-0" value="Adoption of modelling? Getting embedded into industry / education?" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aR928x5UbVXCTr9yEPNH-1">
-          <mxGeometry x="286.81" y="1020" width="140" height="55.09" as="geometry" />
+          <mxGeometry x="890" y="952.88" width="140" height="55.09" as="geometry" />
+        </mxCell>
+        <mxCell id="gaK7E5NfhNHOreuP_D6l-1" value="Transferability of causal model to other people - what level of expertise is required?" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="aR928x5UbVXCTr9yEPNH-1">
+          <mxGeometry x="890" y="832.25" width="130" height="67.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
