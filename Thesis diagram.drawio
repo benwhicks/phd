@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T23:51:25.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tyG2X5YiOw9KB_lI2YI5" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-06T23:54:11.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_pF-wXE535wpkXzPf8VS" version="20.2.0" type="github" pages="9">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2854,8 +2854,8 @@
         <mxCell id="VQQWsTBLZ2yj5Z2oqrhg-97" value="Test of transfer of models:&lt;br&gt;different people, different context" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VQQWsTBLZ2yj5Z2oqrhg-1">
           <mxGeometry x="575.41" y="479.39" width="180" height="37.75" as="geometry" />
         </mxCell>
-        <mxCell id="VQQWsTBLZ2yj5Z2oqrhg-98" value="CM Library" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VQQWsTBLZ2yj5Z2oqrhg-1">
-          <mxGeometry x="632.5" y="680" width="100" height="30" as="geometry" />
+        <mxCell id="VQQWsTBLZ2yj5Z2oqrhg-98" value="CM Library / Robust Theories" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VQQWsTBLZ2yj5Z2oqrhg-1">
+          <mxGeometry x="632.5" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rE5lzT8BUWLAf_svi_Wp-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VQQWsTBLZ2yj5Z2oqrhg-1" source="rE5lzT8BUWLAf_svi_Wp-3" target="rE5lzT8BUWLAf_svi_Wp-5">
           <mxGeometry relative="1" as="geometry" />
