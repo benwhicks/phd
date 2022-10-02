@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T11:57:00.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dw-nWPOAF5f-VvoL9Qb1" version="20.3.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-10-02T13:44:42.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZjY1ZSUdc3ngLHNvl_TV" version="20.3.6" type="github" pages="10">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2893,7 +2893,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-10" id="iaqo_WUl9MSnDZySnGug">
-    <mxGraphModel dx="1247" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pirguGteFboSeD3SFjx3-0" />
         <mxCell id="pirguGteFboSeD3SFjx3-1" parent="pirguGteFboSeD3SFjx3-0" />
@@ -2932,8 +2932,8 @@
         <mxCell id="pirguGteFboSeD3SFjx3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="pirguGteFboSeD3SFjx3-1" source="pirguGteFboSeD3SFjx3-13" target="pirguGteFboSeD3SFjx3-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pirguGteFboSeD3SFjx3-13" value="How can we bridge the context / data gap?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;shadow=1;" parent="pirguGteFboSeD3SFjx3-1" vertex="1">
-          <mxGeometry x="471.84000000000003" y="307" width="273.9" height="30" as="geometry" />
+        <mxCell id="pirguGteFboSeD3SFjx3-13" value="How can we inclusively build Learning Analytics that embeds contextual knowledge?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;shadow=1;" parent="pirguGteFboSeD3SFjx3-1" vertex="1">
+          <mxGeometry x="471.84" y="300" width="273.9" height="37" as="geometry" />
         </mxCell>
         <mxCell id="pirguGteFboSeD3SFjx3-14" value="CONTRIBUTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="pirguGteFboSeD3SFjx3-1" vertex="1">
           <mxGeometry x="119.92999999999999" y="734.0000000000001" width="120" height="20" as="geometry" />
