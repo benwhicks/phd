@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T10:16:49.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EZXUIaL_Sn6WyPOTiIpV" version="20.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-10-16T10:27:29.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R7rjFMOYhf3cfmdCeT-H" version="20.4.0" type="github" pages="12">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3456,7 +3456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-12" id="yeQYUd--lvASijnCZ0_Q">
-    <mxGraphModel dx="1247" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-0" />
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-1" parent="rCBD6CL22pJs3r3zO-Yh-0" />
@@ -3515,14 +3515,17 @@
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-18" value="Interventions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
           <mxGeometry x="310" y="90.07" width="142.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rCBD6CL22pJs3r3zO-Yh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-20" target="rCBD6CL22pJs3r3zO-Yh-22">
+        <mxCell id="rCBD6CL22pJs3r3zO-Yh-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-20" target="rCBD6CL22pJs3r3zO-Yh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OwnKwVnmQMDw4Yh9mOn-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-20" target="8OwnKwVnmQMDw4Yh9mOn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-20" value="How can we make rigorous causal claims in LA?" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
           <mxGeometry x="42.54" y="319" width="260.81" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-22" value="Understand valid use cases for CM in LA" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
-          <mxGeometry x="56.82" y="386" width="232.25" height="30" as="geometry" />
+          <mxGeometry x="65.88" y="380.5" width="133.18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-23" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-27" target="rCBD6CL22pJs3r3zO-Yh-6">
           <mxGeometry relative="1" as="geometry" />
@@ -3647,7 +3650,7 @@
           <mxGeometry x="189.73" y="450.36" width="170.1" height="72" as="geometry" />
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-56" value="Construct a typology of CMs" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
-          <mxGeometry x="51.05" y="468.51" width="97.46" height="42.85" as="geometry" />
+          <mxGeometry x="65.88" y="461.36" width="97.46" height="42.85" as="geometry" />
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-57" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-59" target="rCBD6CL22pJs3r3zO-Yh-45">
           <mxGeometry relative="1" as="geometry" />
@@ -3669,11 +3672,6 @@
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-56" target="rCBD6CL22pJs3r3zO-Yh-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="105.97749999999996" y="634.75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rCBD6CL22pJs3r3zO-Yh-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="rCBD6CL22pJs3r3zO-Yh-22" target="rCBD6CL22pJs3r3zO-Yh-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-65" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
@@ -3714,6 +3712,12 @@
         </mxCell>
         <mxCell id="rCBD6CL22pJs3r3zO-Yh-76" value="Strong Theory in LA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
           <mxGeometry x="310" y="155.07" width="136.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OwnKwVnmQMDw4Yh9mOn-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rCBD6CL22pJs3r3zO-Yh-1" source="8OwnKwVnmQMDw4Yh9mOn-1" target="rCBD6CL22pJs3r3zO-Yh-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OwnKwVnmQMDw4Yh9mOn-1" value="Use CM in LA to make causal claims" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
+          <mxGeometry x="211.77" y="375" width="126.03" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
