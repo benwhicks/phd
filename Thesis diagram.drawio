@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T10:27:29.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R7rjFMOYhf3cfmdCeT-H" version="20.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-10-17T09:22:25.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ndwvn0uIyt6nNED-0OnU" version="20.4.0" type="github" pages="13">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3718,6 +3718,251 @@
         </mxCell>
         <mxCell id="8OwnKwVnmQMDw4Yh9mOn-1" value="Use CM in LA to make causal claims" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rCBD6CL22pJs3r3zO-Yh-1">
           <mxGeometry x="211.77" y="375" width="126.03" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-13" id="9L2IkUMdhGOlW6viG0hl">
+    <mxGraphModel dx="1247" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-0" />
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-1" parent="y2oVSkwojKL6_Yb8czkp-0" />
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-2" value="CONTEXT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="47" y="53" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-3" value="RESEARCH GAPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=1;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="38.78" y="202" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-4" value="RESEARCH &lt;br&gt;QUESTIONS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="40" y="286" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-5" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-6" target="y2oVSkwojKL6_Yb8czkp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-6" value="Qualitative analysis of case study working sessions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="439.9999999999999" y="527" width="110" height="45.12" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-8" target="y2oVSkwojKL6_Yb8czkp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-8" value="Context / Data gap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=1;sketch=1;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="518.86" y="226" width="179.85" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-10" target="y2oVSkwojKL6_Yb8czkp-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172.94000000000005" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-10" value="Few causal claims being made in LA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="65.88" y="222" width="214.12" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-12" target="y2oVSkwojKL6_Yb8czkp-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-12" value="How can we inclusively build Learning Analytics that embeds contextual knowledge?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;shadow=1;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="471.84" y="300" width="273.9" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-13" value="CONTRIBUTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="115.94999999999999" y="661.0000000000001" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-14" value="EVIDENCE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="129.42" y="577.7200000000003" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470.25" y="1270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-18" target="y2oVSkwojKL6_Yb8czkp-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-18" target="y2oVSkwojKL6_Yb8czkp-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-18" value="Interventions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="310" y="90.07" width="142.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-21" target="y2oVSkwojKL6_Yb8czkp-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-21" value="How can we make rigorous causal claims in LA?" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="42.54" y="319" width="260.81" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-23" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-27" target="y2oVSkwojKL6_Yb8czkp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-27" target="y2oVSkwojKL6_Yb8czkp-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377.228958915038" y="564.1399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;curved=1;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-27" target="y2oVSkwojKL6_Yb8czkp-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595.47" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-27" target="y2oVSkwojKL6_Yb8czkp-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-27" value="Iterate Co-D CM process through series of case studies; Retention, Belonging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="308.74" y="455" width="437" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.25" y="1260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-30" target="y2oVSkwojKL6_Yb8czkp-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-30" value="Causal claims from data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;shadow=0;glass=0;sketch=0;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="102.57" y="155.13" width="140.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-32" target="y2oVSkwojKL6_Yb8czkp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-32" value="Improvement in thinking, trust, confidence" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="425" y="597.7199999999999" width="143.75" height="54.18" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-33" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.78" y="199" as="sourcePoint" />
+            <mxPoint x="758.78" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-34" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="279" as="sourcePoint" />
+            <mxPoint x="760" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-35" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="353" as="sourcePoint" />
+            <mxPoint x="760" y="353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-36" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.78" y="658" as="sourcePoint" />
+            <mxPoint x="759.47" y="659" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-38" target="y2oVSkwojKL6_Yb8czkp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-38" value="Requires shared language between context experts and data experts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="496.58" y="150" width="233.14" height="39.13" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-39" value="METHODS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="40" y="438" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-40" value="PM methodology" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="321.48" y="681" width="175.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-41" value="Rigorous causal claims" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="60.7" y="681" width="92.66" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-42" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-43" target="y2oVSkwojKL6_Yb8czkp-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-43" value="Value added compared to traditional. methods" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="47.00000000000001" y="597.72" width="120.05" height="49.37" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-46" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-47" target="y2oVSkwojKL6_Yb8czkp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-47" value="PM tools and guidelines" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="320" y="603.22" width="100" height="33.55" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-49" target="y2oVSkwojKL6_Yb8czkp-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-49" value="Application of CM to new contexts" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="613.2" y="596.08" width="99.5" height="44.55" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-50" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.5" y="435" as="sourcePoint" />
+            <mxPoint x="761" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-51" value="OBJECTIVES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="39.42" y="359" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;curved=1;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-53" target="y2oVSkwojKL6_Yb8czkp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-53" value="Establish Participatory Modelling (PM) methodology" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="510.63" y="366" width="196.31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-55" target="y2oVSkwojKL6_Yb8czkp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Os92HAuDRRnhnlb6GL9-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-55" target="7Os92HAuDRRnhnlb6GL9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-55" value="Model using both traditional processes&amp;nbsp;&lt;br&gt;and CM" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="109.83" y="455" width="126.12" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-61" style="rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-64" target="y2oVSkwojKL6_Yb8czkp-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-63" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="577" as="sourcePoint" />
+            <mxPoint x="762.69" y="577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-64" value="Test of transfer of models:&lt;br&gt;different people, different context, formal theories" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="590.6500000000001" y="510" width="144.59" height="56.61" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-65" value="CM Library / Robust Theories" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="612.7" y="671" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-67" target="y2oVSkwojKL6_Yb8czkp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-67" value="Interventions need causal judgements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;shadow=0;glass=0;sketch=0;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="112.56" y="90.07" width="120.77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-69" target="y2oVSkwojKL6_Yb8czkp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-69" value="Needs people; those embedded in the context, and those analysing the data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="495.58000000000004" y="85" width="234.42" height="50.13" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-71" target="y2oVSkwojKL6_Yb8czkp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-71" value="Improving educational outcomes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="281" y="54" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-74" target="y2oVSkwojKL6_Yb8czkp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-74" target="y2oVSkwojKL6_Yb8czkp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-74" value="Strong Theory in Learning Analytics (LA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="310" y="155.07" width="136.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-76" target="y2oVSkwojKL6_Yb8czkp-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-76" value="Use Causal Models (CM) in LA to make causal claims" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="92.63" y="379" width="160.62" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="7Os92HAuDRRnhnlb6GL9-0" value="Testable formal theories" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="197" y="681" width="92.66" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7Os92HAuDRRnhnlb6GL9-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="7Os92HAuDRRnhnlb6GL9-1" target="7Os92HAuDRRnhnlb6GL9-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Os92HAuDRRnhnlb6GL9-1" value="Formal theory evaluation via simulation" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="183.3" y="597.72" width="120.05" height="49.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
