@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T09:22:25.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ndwvn0uIyt6nNED-0OnU" version="20.4.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-17T09:38:24.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3oSBUivofZAAwdFfsB2O" version="20.4.0" type="github" pages="13">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3739,8 +3739,8 @@
         <mxCell id="y2oVSkwojKL6_Yb8czkp-5" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-6" target="y2oVSkwojKL6_Yb8czkp-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y2oVSkwojKL6_Yb8czkp-6" value="Qualitative analysis of case study working sessions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
-          <mxGeometry x="439.9999999999999" y="527" width="110" height="45.12" as="geometry" />
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-6" value="Qualitative analysis of PM sessions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="476.3099999999999" y="505" width="110" height="45.12" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-8" target="y2oVSkwojKL6_Yb8czkp-12">
           <mxGeometry relative="1" as="geometry" />
@@ -3804,8 +3804,8 @@
         <mxCell id="y2oVSkwojKL6_Yb8czkp-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1" source="y2oVSkwojKL6_Yb8czkp-27" target="y2oVSkwojKL6_Yb8czkp-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y2oVSkwojKL6_Yb8czkp-27" value="Iterate Co-D CM process through series of case studies; Retention, Belonging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
-          <mxGeometry x="308.74" y="455" width="437" height="20" as="geometry" />
+        <mxCell id="y2oVSkwojKL6_Yb8czkp-27" value="Iterate PM methodology through case studies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+          <mxGeometry x="355.68" y="455" width="351.26" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
           <mxGeometry relative="1" as="geometry">
@@ -3824,7 +3824,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-32" value="Improvement in thinking, trust, confidence" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
-          <mxGeometry x="425" y="597.7199999999999" width="143.75" height="54.18" as="geometry" />
+          <mxGeometry x="464.43" y="597.72" width="133.75" height="33.55" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-33" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3860,7 +3860,7 @@
           <mxGeometry x="40" y="438" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-40" value="PM methodology" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
-          <mxGeometry x="321.48" y="681" width="175.1" height="30" as="geometry" />
+          <mxGeometry x="321.48" y="681" width="188.52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-41" value="Rigorous causal claims" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
           <mxGeometry x="60.7" y="681" width="92.66" height="39" as="geometry" />
@@ -3917,7 +3917,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-64" value="Test of transfer of models:&lt;br&gt;different people, different context, formal theories" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
-          <mxGeometry x="590.6500000000001" y="510" width="144.59" height="56.61" as="geometry" />
+          <mxGeometry x="601.1500000000001" y="505" width="144.59" height="56.61" as="geometry" />
         </mxCell>
         <mxCell id="y2oVSkwojKL6_Yb8czkp-65" value="CM Library / Robust Theories" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="y2oVSkwojKL6_Yb8czkp-1">
           <mxGeometry x="612.7" y="671" width="100" height="40" as="geometry" />
