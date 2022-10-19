@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T10:42:26.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="p7bRR7dZKerWafWfJ0Br" version="20.4.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-19T05:40:46.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ExF6Ky_lcGHUOMyGunML" version="20.4.1" type="github" pages="14">
   <diagram id="LmNHkAMFc_MV63TZnNPk" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3951,19 +3951,268 @@
         <mxCell id="7Os92HAuDRRnhnlb6GL9-4" value="Analysis of opportunities and limits of PM" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="y2oVSkwojKL6_Yb8czkp-1" vertex="1">
           <mxGeometry x="449.92" y="629.5" width="104.42" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="P5C8tiEkhgcqCYXvRjbT-0" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+        <mxCell id="P5C8tiEkhgcqCYXvRjbT-0" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" parent="y2oVSkwojKL6_Yb8czkp-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="196" as="sourcePoint" />
             <mxPoint x="730" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5C8tiEkhgcqCYXvRjbT-1" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+        <mxCell id="P5C8tiEkhgcqCYXvRjbT-1" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" parent="y2oVSkwojKL6_Yb8czkp-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="282" as="sourcePoint" />
             <mxPoint x="730" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5C8tiEkhgcqCYXvRjbT-2" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="y2oVSkwojKL6_Yb8czkp-1">
+        <mxCell id="P5C8tiEkhgcqCYXvRjbT-2" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" parent="y2oVSkwojKL6_Yb8czkp-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="356" as="sourcePoint" />
+            <mxPoint x="730" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-14" id="gOWpQq23VBmpL8DEPeMJ">
+    <mxGraphModel dx="1247" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-0" />
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-1" parent="ToPkObGMG-8PnjmEZGsY-0" />
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-2" value="CONTEXT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="47" y="53" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-3" value="RESEARCH GAPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=1;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="38.78" y="202" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-4" value="RESEARCH &lt;br&gt;QUESTIONS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="40" y="286" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-5" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-6" target="ToPkObGMG-8PnjmEZGsY-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-6" value="Qualitative analysis of PM sessions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="546.08" y="495.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-8" target="ToPkObGMG-8PnjmEZGsY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-8" value="Context / Data gap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=1;sketch=1;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="483.23" y="222" width="179.85" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-10" target="ToPkObGMG-8PnjmEZGsY-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172.94000000000005" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-10" value="Few causal claims being made in LA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;sketch=1;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="65.88" y="222" width="214.12" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-12" target="ToPkObGMG-8PnjmEZGsY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-12" value="How can we inclusively build Learning Analytics that embeds contextual knowledge?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;shadow=1;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="436.5" y="300" width="273.9" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-13" value="CONTRIBUTIONS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="115.94999999999999" y="623.0000000000001" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-14" value="EVIDENCE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="129.42" y="541.7200000000003" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470.25" y="1270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-18" target="ToPkObGMG-8PnjmEZGsY-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-18" target="ToPkObGMG-8PnjmEZGsY-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-18" value="Interventions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="278" y="90.07" width="142.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-20" target="ToPkObGMG-8PnjmEZGsY-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-20" value="How can we make rigorous causal claims in LA?" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="42.54" y="319" width="260.81" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-21" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-25" target="ToPkObGMG-8PnjmEZGsY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-25" target="ToPkObGMG-8PnjmEZGsY-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377.228958915038" y="564.1399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-25" target="ToPkObGMG-8PnjmEZGsY-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595.47" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-25" target="ToPkObGMG-8PnjmEZGsY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-25" value="Iterate PM methodology through case studies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="340.90999999999997" y="458" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.25" y="1260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-28" target="ToPkObGMG-8PnjmEZGsY-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-28" value="Causal claims from data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;shadow=0;glass=0;sketch=0;strokeColor=#82b366;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="102.57" y="155.13" width="140.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-30" target="ToPkObGMG-8PnjmEZGsY-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="659" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-30" value="Improvement in thinking, trust, confidence" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="561.25" y="561.72" width="133.75" height="33.55" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-31" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.78" y="621" as="sourcePoint" />
+            <mxPoint x="730" y="622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-33" target="ToPkObGMG-8PnjmEZGsY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-33" value="Requires shared language between context experts and data experts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="456.88" y="150.56" width="233.14" height="39.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-34" value="METHODS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="40" y="438" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-35" value="PM methodology" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="445.88" y="638" width="98.52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-36" value="Rigorous causal claims" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="60.7" y="642" width="92.66" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-37" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-38" target="ToPkObGMG-8PnjmEZGsY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-38" value="Value added compared to traditional methods" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="47.00000000000001" y="566.72" width="120.05" height="49.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-39" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-40" target="ToPkObGMG-8PnjmEZGsY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-40" value="PM tools and guidelines" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="445.25" y="559.72" width="100" height="33.55" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-42" target="ToPkObGMG-8PnjmEZGsY-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618.0799999999999" y="641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-42" value="Application of CM to new contexts" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="322.00000000000006" y="569.72" width="99.5" height="44.55" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-43" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.5" y="435" as="sourcePoint" />
+            <mxPoint x="730" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-44" value="OBJECTIVES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="39.42" y="359" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;curved=1;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-46" target="ToPkObGMG-8PnjmEZGsY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-46" value="Establish Participatory Modelling (PM) methodology" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="475" y="370" width="196.31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-49" target="ToPkObGMG-8PnjmEZGsY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-49" target="ToPkObGMG-8PnjmEZGsY-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-49" value="Model using both traditional processes&amp;nbsp;&lt;br&gt;and CM" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="109.83" y="455" width="126.12" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-50" style="rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-52" target="ToPkObGMG-8PnjmEZGsY-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-51" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="539" as="sourcePoint" />
+            <mxPoint x="730" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-52" value="Transfer of models:&lt;br&gt;different people, different context" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="277" y="498" width="188.85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-55" target="ToPkObGMG-8PnjmEZGsY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-55" value="Interventions need causal judgements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;shadow=0;glass=0;sketch=0;strokeColor=#82b366;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="112.56" y="90.07" width="120.77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-57" target="ToPkObGMG-8PnjmEZGsY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-57" value="Needs people; those embedded in the context, and those analysing the data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="456.88000000000005" y="85" width="234.42" height="50.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-59" target="ToPkObGMG-8PnjmEZGsY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-59" value="Improving educational outcomes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="249.25" y="54" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-62" target="ToPkObGMG-8PnjmEZGsY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-62" target="ToPkObGMG-8PnjmEZGsY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-62" value="Strong Theory in Learning Analytics (LA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="279" y="155.13" width="136.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-64" target="ToPkObGMG-8PnjmEZGsY-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-64" value="Use Causal Models (CM) in LA to make causal claims" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="92.63" y="379" width="160.62" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-65" value="Testable formal theories" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="254.25" y="638" width="92.66" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1" source="ToPkObGMG-8PnjmEZGsY-67" target="ToPkObGMG-8PnjmEZGsY-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-67" value="Formal theory evaluation via simulation" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="183.3" y="566.72" width="120.05" height="49.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-68" value="Analysis of opportunities and limits of PM" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry x="561.6" y="630.5" width="134.4" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-69" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="196" as="sourcePoint" />
+            <mxPoint x="730" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-70" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="282" as="sourcePoint" />
+            <mxPoint x="730" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToPkObGMG-8PnjmEZGsY-71" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curved=1;shadow=1;opacity=50;" edge="1" parent="ToPkObGMG-8PnjmEZGsY-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="356" as="sourcePoint" />
             <mxPoint x="730" y="360" as="targetPoint" />
